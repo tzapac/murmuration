@@ -19,3 +19,7 @@ The documentation has the complete list of features, but here are a few cool one
 - Flash Loan Resistant FA1.2 Token: The DAO uses historical balances to prevent flash loan attacks
 - On Chain History: Vote outcomes are preserved without the need of an external indexer
 - Optional Timelock: Programatically delay lambda execution
+
+## Kat's Experiment
+
+I'm trying to build an DAO to invest in Asian NFT art. 
